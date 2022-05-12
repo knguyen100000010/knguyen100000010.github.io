@@ -6,3 +6,4 @@
 - [design-patterns](https://refactoring.guru/design-patterns/catalog)
 - [https://dl.acm.org/doi/10.1145/360825.360861](https://dl.acm.org/doi/10.1145/360825.360861)
 - [https://projecteuler.net/about](https://projecteuler.net/about)
+- [https://www3.cs.stonybrook.edu/~algorith/video-lectures/1997/lecture11.pdf](https://www3.cs.stonybrook.edu/~algorith/video-lectures/1997/lecture11.pdf)
