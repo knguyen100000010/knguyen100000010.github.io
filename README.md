@@ -7,3 +7,4 @@
 - [https://dl.acm.org/doi/10.1145/360825.360861](https://dl.acm.org/doi/10.1145/360825.360861)
 - [https://projecteuler.net/about](https://projecteuler.net/about)
 - [https://www3.cs.stonybrook.edu/~algorith/video-lectures/1997/lecture11.pdf](https://www3.cs.stonybrook.edu/~algorith/video-lectures/1997/lecture11.pdf)
+- [Cache false sharing](https://docs.oracle.com/cd/E19205-01/819-5270/aewcy/index.html)
