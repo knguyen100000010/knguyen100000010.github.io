@@ -11,6 +11,8 @@
 
 ## Machine Learning
 - [ML Courses](https://machinelearning.mit.edu/classes2.html)
+- [MIT statistics-for-applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/resources/mit18_650f16_introduction/)
+- [MIT mathematics-of-machine-learning](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/)
 
 ## Distributed Systems
 - [Kafka design](https://kafka.apache.org/documentation/#design)
