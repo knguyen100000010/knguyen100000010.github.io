@@ -14,6 +14,7 @@
 - [MIT statistics-for-applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/resources/mit18_650f16_introduction/)
 - [MIT mathematics-of-machine-learning](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/)
 - [CS231](https://cs231n.github.io/)
+- [Neural Networks and Machine Learning](http://neuralnetworksanddeeplearning.com/chap2.html)
 
 ## Distributed Systems
 - [Kafka design](https://kafka.apache.org/documentation/#design)
