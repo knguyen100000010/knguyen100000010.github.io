@@ -23,3 +23,8 @@
 - [A linear space algorithm for computing maximal common subsequences](https://dl.acm.org/doi/10.1145/360825.360861)
 - [Project Euler](https://projecteuler.net/about)
 - [Dynamic Programming](https://www3.cs.stonybrook.edu/~algorith/video-lectures/1997/lecture11.pdf)
+
+## People
+- https://math.dartmouth.edu/~pw/
+- https://en.wikipedia.org/wiki/Peter_Winkler
+- https://math.dartmouth.edu/~pw/papers/babylon5.pdf
