@@ -24,6 +24,8 @@
 - [Project Euler](https://projecteuler.net/about)
 - [Dynamic Programming](https://www3.cs.stonybrook.edu/~algorith/video-lectures/1997/lecture11.pdf)
 - https://people.eecs.berkeley.edu/~vazirani/s99cs170/notes/lec12.pdf
+- https://cses.fi/
+- https://starcoder.org/
 
 ## People
 - https://math.dartmouth.edu/~pw/
