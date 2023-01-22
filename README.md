@@ -31,3 +31,6 @@
 - https://math.dartmouth.edu/~pw/
 - https://en.wikipedia.org/wiki/Peter_Winkler
 - https://math.dartmouth.edu/~pw/papers/babylon5.pdf
+
+## Networking
+- https://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html
