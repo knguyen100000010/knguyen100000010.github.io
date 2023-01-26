@@ -9,6 +9,7 @@
 - [Cache false sharing](https://docs.oracle.com/cd/E19205-01/819-5270/aewcy/index.html)
 - [Efficient data transfer through zero copy](https://developer.ibm.com/articles/j-zerocopy/)
 - https://www.usenix.org/legacy/events/usenix99/full_papers/pai/pai.pdf
+- https://courses.cs.washington.edu/courses/cse550/14wi/notes/lect3.pdf
 
 ## Machine Learning
 - [ML Courses](https://machinelearning.mit.edu/classes2.html)
