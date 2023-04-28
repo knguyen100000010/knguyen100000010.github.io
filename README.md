@@ -28,6 +28,7 @@
 - https://people.eecs.berkeley.edu/~vazirani/s99cs170/notes/lec12.pdf
 - https://cses.fi/
 - https://starcoder.org/
+- http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap19.htm
 
 ## People
 - https://math.dartmouth.edu/~pw/
