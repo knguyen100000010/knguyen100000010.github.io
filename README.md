@@ -3,6 +3,7 @@
 ## Designs
 - [OOP Design Patterns](https://pl.cs.jhu.edu/oose/lectures/design-patterns.shtml)
 - [Design Patterns](https://refactoring.guru/design-patterns/catalog)
+- https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
 
 ## Compilers / OS
 - [Compiler Optimization - Volatile Keyword](https://developer.arm.com/documentation/dui0472/c/compiler-coding-practices/compiler-optimization-and-the-volatile-keyword)
