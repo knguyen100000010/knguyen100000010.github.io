@@ -44,4 +44,7 @@
 ## Database
 - https://jahfer.com/posts/innodb-locks/
 - https://web.mit.edu/java_v1.5.0_22/distrib/share/docs/guide/jdbc/getstart/datasource.html#:~:text=A%20DataSource%20object%20is%20the,file%20with%20rows%20and%20columns.
-- 
+
+
+## Reads
+- https://developers.redhat.com/coderland/reactive/reactive-intro#one_more_thing___the_event_bus
