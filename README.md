@@ -48,3 +48,4 @@
 
 ## Reads
 - https://developers.redhat.com/coderland/reactive/reactive-intro#one_more_thing___the_event_bus
+- https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
