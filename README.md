@@ -55,3 +55,4 @@
 - https://fntlnz.wtf/post/what-i-learnt-about-kubernetes-controller/
 - https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170
 - https://learn.microsoft.com/en-us/cpp/standard-library/algorithms?view=msvc-170
+- https://cs.nyu.edu/~wies/teaching/ppc-14/material/lecture03.pdf
