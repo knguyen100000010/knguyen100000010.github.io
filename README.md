@@ -47,6 +47,7 @@
 
 
 ## Reads
+- https://raft.github.io/
 - https://moodle.ufsc.br/pluginfile.php/2377667/mod_resource/content/0/Effective_Modern_C__.pdf
 - https://developers.redhat.com/coderland/reactive/reactive-intro#one_more_thing___the_event_bus
 - https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
