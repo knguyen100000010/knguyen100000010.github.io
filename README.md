@@ -47,6 +47,8 @@
 
 
 ## Reads
+- https://www.cs.jhu.edu/~phi/csf/slides/lecture-concurrency-processes.pdf
+- https://linux-kernel-labs.github.io/refs/heads/master/lectures/syscalls.html
 - https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf
 - https://raft.github.io/
 - https://moodle.ufsc.br/pluginfile.php/2377667/mod_resource/content/0/Effective_Modern_C__.pdf
