@@ -47,6 +47,8 @@
 
 
 ## Reads
+- http://gafter.blogspot.com/2006/12/super-type-tokens.html
+- http://gafter.blogspot.com/
 - https://www.cs.jhu.edu/~phi/csf/slides/lecture-concurrency-processes.pdf
 - https://linux-kernel-labs.github.io/refs/heads/master/lectures/syscalls.html
 - https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf
