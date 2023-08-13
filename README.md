@@ -47,6 +47,7 @@
 
 
 ## Reads
+- https://www.macs.hw.ac.uk/~greg/books/gjm.lambook88.pdf
 - http://gafter.blogspot.com/2006/12/super-type-tokens.html
 - http://gafter.blogspot.com/
 - https://www.cs.jhu.edu/~phi/csf/slides/lecture-concurrency-processes.pdf
