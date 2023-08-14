@@ -47,6 +47,7 @@
 
 
 ## Reads
+- https://blog.kezhuw.name/2018/03/20/A-step-by-step-approach-to-raft-consensus-algorithm/#more
 - https://www.macs.hw.ac.uk/~greg/books/gjm.lambook88.pdf
 - http://gafter.blogspot.com/2006/12/super-type-tokens.html
 - http://gafter.blogspot.com/
